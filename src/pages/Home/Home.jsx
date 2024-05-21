@@ -1,3 +1,4 @@
+import Newsletter from "../../components/Nwesletter";
 import Banner from "./Banner";
 import Category from "./Category/Category";
 
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
             <Banner></Banner>
             <Category></Category>
+            <Newsletter></Newsletter>
         </div>
     );
 };
