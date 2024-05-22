@@ -1,6 +1,8 @@
-import Newsletter from "../../components/Nwesletter";
+
+import Newsletter from "../../components/Newsletter";
 import Banner from "./Banner";
 import Category from "./Category/Category";
+import PopularMenu from "./Category/PopularMenu";
 
 
 const Home = () => {
@@ -9,6 +11,7 @@ const Home = () => {
             <Banner></Banner>
             <Category></Category>
             <Newsletter></Newsletter>
+            <PopularMenu></PopularMenu>
         </div>
     );
 };
