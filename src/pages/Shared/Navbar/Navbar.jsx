@@ -20,6 +20,7 @@ const Navbar = () => {
         {navOptions}
       </ul>
     </div>
+    <img className="w-11" src="https://i.ibb.co/Q66MjFM/kisspng-catering-food-computer-icons-logo-event-management-catering-5abf487cd18447-75462904152248537.png" alt="" />
     <a className="btn btn-ghost text-xl">SpiceSilk</a>
   </div>
   <div className="navbar-center hidden lg:flex">

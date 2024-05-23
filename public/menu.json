@@ -11,11 +11,12 @@
     {
         "_id": "642c155b2c4774f05c36ee7c",
         "name": "Escalope de Veau",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "recipe": "Pan-fried veal escalope with a crispy breadcrumb coating, served with lemon wedges and a side salad",
         "image": "https://i.ibb.co/thpRky9/Escalopes-de-veau-milanaises.jpg",
         "category": "popular",
-        "price": 14.5
-    },
+        "price": 19
+      },
+      
 
     {
         "_id": "642c155b2c4774f05c36ee7a",
@@ -23,7 +24,7 @@
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
         "image": "https://i.ibb.co/HCz5NZp/German-Roast-Duck-Breast.jpg",
         "category": "popular",
-        "price": 14.5
+        "price": 22.5
     },
     {
         "_id": "642c155b2c4774f05c36ee8c",
@@ -140,11 +141,12 @@
     {
         "_id": "642c155b2c4774f05c36ee7f",
         "name": "Roasted Pork Belly",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "recipe": "Slow-roasted pork belly with crispy crackling, served with mashed potatoes and apple stuffing",
         "image": "https://i.ibb.co/0y4HZ2j/3024-Roast-Pork-Belly-Apple-Stuffing-Mash5157-1-1603102558694.jpg",
         "category": "popular",
-        "price": 14.5
-    },
+        "price": 17
+      },
+      
     {
         "_id": "642c155b2c4774f05c36eea8",
         "name": "Chicken and Walnut Salad",
@@ -250,12 +252,14 @@
         "price": 14.7
     },
     {
-        "_id": "642c155b2c4774f05c36ee7e",
-        "name": "Fish Parmentier",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://i.ibb.co/YZDSVkD/product-8.jpg",
-        "category": "popular",
-        "price": 14.5
+        
+            "_id": "642c155b2c4774f05c36ee7e",
+            "name": "Fish Parmentier",
+            "recipe": "Layered white fish fillets with thinly sliced potatoes, poached in fish stock and cream, topped with Parmesan cheese",
+            "image": "https://i.ibb.co/YZDSVkD/product-8.jpg",
+            "category": "popular",
+            "price": 14.5
+          
     },
     {
         "_id": "642c155b2c4774f05c36ee8b",
