@@ -17,6 +17,7 @@ const Menu = () => {
     const pizza = menu.filter(item => item.category === 'pizza');
     const salad = menu.filter(item => item.category === 'salad');
     const soup = menu.filter(item => item.category === 'soup');
+    const drinks = menu.filter(item => item.category === 'drinks');
     return (
         <div>
             <Helmet>
@@ -28,13 +29,13 @@ const Menu = () => {
             <MenuCategory items={offered}></MenuCategory>
             {/* dessert menu items */}
             <MenuCategory items={dessert}
-            title="Dessert"
+            title="dessert"
             img={dessertImg}
             ></MenuCategory>
             {/* pizza  menu */}
-            <MenuCategory items={pizza} title={"Pizza"} img={pizzaImg}></MenuCategory>
-            <MenuCategory items={salad} title={"Salad"} img={saladImg}></MenuCategory>
-            <MenuCategory items={soup} title={"Soup"} img={soupImg}></MenuCategory>
+            <MenuCategory items={pizza} title={"pizza"} img={pizzaImg}></MenuCategory>
+            <MenuCategory items={salad} title={"salad"} img={saladImg}></MenuCategory>
+            <MenuCategory items={soup} title={"soup"} img={soupImg}></MenuCategory>
         </div>
     );
 };
